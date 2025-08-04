@@ -1,54 +1,61 @@
-# Weather Info App
+# 🌤️ Weather Info App
  
- 🌦️ Weather Info App
-A simple weather application built with HTML, CSS, and JavaScript, using the OpenWeatherMap API. It allows users to search for any city and view real-time weather data, including temperature, weather conditions, humidity, and wind speed.
+ 
+A simple and responsive weather application that provides real-time weather data for any city around the world using the OpenWeatherMap API.
 
-📸 Preview
+
 ![App Screenshot](screenshot/s1.png)
-![App Screenshot](screenshot/s2.png)
-
-
 
 🚀 Features
-Search current weather by city name
+🌍 Search weather by city name
 
-Display:
+📍 Detect user location and show weather
 
-Temperature (°C)
+🌡️ Display temperature, humidity, wind speed, and condition
 
-Weather condition (Clear, Rain, Snow, etc.)
+🌓 Dynamic UI based on weather conditions and time
 
-Humidity
+📱 Mobile-friendly and responsive design
 
-Wind speed
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
 
-Responsive and user-friendly UI
+API: OpenWeatherMap
 
-Basic error handling for invalid input
+🌐 Live Demo: [Open App](https://dainty-kringle-9459d6.netlify.app/)
 
-🛠️ Built With
-HTML
+📦 How to Run
+Follow the steps below to set up and run the project locally:
 
-CSS
+1. Clone the Repository
+   git clone https://github.com/sumitjaiswal9334/Weather-Info-App.git
+   cd Weather-Info-App
+   
+2. Configure API Key
+   const apiKey = "const apiKey = "f9e3a3aef33146bc8e0cbc889fb833c9"
+   
+3. Run the App
+   open index.html directly in your browser.
 
-JavaScript
 
-OpenWeatherMap API
+🧠 Future Improvements
+Add weather forecast for upcoming days
 
-git clone https://github.com/sumitjaiswal9334/Weather-Info-App.git
-cd Weather-Info-App
+Support for multiple units (Celsius, Fahrenheit)
+
+Save recent searches
+
+Dark mode toggle
 
 
-▶️ How to Run
-You can run this app by simply opening index.html in your browser.
-No installation or build tools are required.
 
 📌 Notes
 Ensure your internet connection is active when running the app
 
 This is a front-end only project. For production, never expose your API key directly in JavaScript
 
+
+
 📃 License
 This project is open-source and available under the MIT License.
-
 
