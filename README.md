@@ -4,9 +4,12 @@
 A simple and responsive weather application that provides real-time weather data for any city around the world using the OpenWeatherMap API.
 
 
+# Screenshot
+
 ![App Screenshot](screenshot/s1.png)
 
-🚀 Features
+# 🚀 Features
+
 🌍 Search weather by city name
 
 📍 Detect user location and show weather
@@ -17,14 +20,18 @@ A simple and responsive weather application that provides real-time weather data
 
 📱 Mobile-friendly and responsive design
 
-🛠️ Tech Stack
+
+
+# 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript
 
 API: OpenWeatherMap
 
 🌐 Live Demo: [Open App](https://dainty-kringle-9459d6.netlify.app/)
 
-📦 How to Run
+# 📦 How to Run
+
 Follow the steps below to set up and run the project locally:
 
 1. Clone the Repository
@@ -32,13 +39,14 @@ Follow the steps below to set up and run the project locally:
    cd Weather-Info-App
    
 2. Configure API Key
-   const apiKey = "const apiKey = "f9e3a3aef33146bc8e0cbc889fb833c9"
+    = "const apiKey = "f9e3a3aef33146bc8e0cbc889fb833c9"
    
 3. Run the App
    open index.html directly in your browser.
 
 
-🧠 Future Improvements
+# 🧠 Future Improvements
+
 Add weather forecast for upcoming days
 
 Support for multiple units (Celsius, Fahrenheit)
@@ -49,13 +57,16 @@ Dark mode toggle
 
 
 
-📌 Notes
+# 📌 Notes
+
 Ensure your internet connection is active when running the app
 
 This is a front-end only project. For production, never expose your API key directly in JavaScript
 
 
 
-📃 License
+# 📃 License
+
 This project is open-source and available under the MIT License.
+
 
